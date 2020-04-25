@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Client\AuthenticationServer\bin\Release\AuthenticationServer.exe.config
+C:\Users\admin\source\repos\Client\AuthenticationServer\bin\Release\AuthenticationServer.exe
+C:\Users\admin\source\repos\Client\AuthenticationServer\bin\Release\AuthenticationServer.pdb
+C:\Users\admin\source\repos\Client\AuthenticationServer\obj\Release\AuthenticationServer.AuthenticationServer.resources
+C:\Users\admin\source\repos\Client\AuthenticationServer\obj\Release\AuthenticationServer.Properties.Resources.resources
+C:\Users\admin\source\repos\Client\AuthenticationServer\obj\Release\AuthenticationServer.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Client\AuthenticationServer\obj\Release\AuthenticationServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Client\AuthenticationServer\obj\Release\AuthenticationServer.exe
+C:\Users\admin\source\repos\Client\AuthenticationServer\obj\Release\AuthenticationServer.pdb
+C:\Users\admin\source\repos\Client\AuthenticationServer\obj\Release\AuthenticationServer.csprojAssemblyReference.cache
